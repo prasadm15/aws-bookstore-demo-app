@@ -743,3 +743,5 @@ For a more basic example of a full-stack web application, check out **[AWS Full-
 ## Questions and contact
 
 For questions on AWS Bookstore Demo App, or to contact the team, please leave a comment on GitHub.
+
+#demo for poll-scm trigger
